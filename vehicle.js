@@ -4,9 +4,9 @@ class Vehicle {
         this.model = model;
         this.year = year;
         this.color = color;
+        this.mileage = mileage;
         this.passenger = 0;
         this.speed = 0;
-        this.mileage = mileage;
         this.started = false;
         this.numberOfWheels = 0;
     }
